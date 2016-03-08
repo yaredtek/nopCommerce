@@ -1,0 +1,8 @@
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Description.txt
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll.config
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csprojResolveAssemblyReference.cache
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.dll
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.pdb

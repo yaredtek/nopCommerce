@@ -1,0 +1,10 @@
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Views\TaxCountryStateZip\Configure.cshtml
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Description.txt
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\web.config
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\logo.jpg
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll.config
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.dll
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Presentation\Nop.Web\Plugins\Tax.CountryStateZip\Nop.Plugin.Tax.CountryStateZip.pdb
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.csprojResolveAssemblyReference.cache
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.dll
+C:\Projects\Ecommerce\nopCommerce_3.70_Source\Plugins\Nop.Plugin.Tax.CountryStateZip\obj\Debug\Nop.Plugin.Tax.CountryStateZip.pdb
